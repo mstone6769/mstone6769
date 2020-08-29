@@ -1,12 +1,13 @@
-Morgan Stone
+# Morgan Stone
 
--------------------------------------------
+## Experience
 
-Experience
+### Manager, Software Engineering
 
-Manager, Software Engineering
 Healthgrades
+
 Jan 2019 – Present
+
 Birmingham, Alabama
 
 Collaborate and lead remote software engineering teams across the US and India
@@ -31,9 +32,12 @@ Present new app prototypes and features to board members and executive leadershi
 
 
 
-Manager, Engineering
+### Manager, Engineering
+
 Influence Health
+
 Aug 2018 – Jan 2019
+
 Birmingham, Alabama
 
 Collaborate with product and senior leadership to architect and develop new features for our healthcare martech apps
@@ -47,9 +51,12 @@ Implemented Auth0 for authorization and authentication. Used AWS Lambda and AWS 
 
 
 
-UI/UX Architect
+### UI/UX Architect
+
 Influence Health
+
 May 2014 – Aug 2018
+
 Birmingham, Alabama
 
 Develop and document a CSS design system using Sass generated functional CSS classes
@@ -67,9 +74,12 @@ Architect Angular JS directive and npm component modules that are shared across 
 
 
 
-Credentialed Course Instructor - Interactive Design
+### Credentialed Course Instructor - Interactive Design
+
 The University of Alabama at Birmingham
+
 Aug 2014 – May 2018
+
 Birmingham, Alabama
 
 Instruct a class of graphic design majors on web design fundamentals
@@ -82,9 +92,12 @@ Course Objectives
 
 
 
-Director of Design
+### Director of Design
+
 Zeekee Interactive
+
 Oct 2006 – May 2014
+
 Birmingham, Alabama
 
 Designed over 150 websites in a variety of industries ranging from Financial Institutions to Food & Entertainment Venues
@@ -96,27 +109,25 @@ Designed several magazine ads and direct mail pieces
 
 
 
-Web Developer, Graphic Designer & Video Editor
+### Web Developer, Graphic Designer & Video Editor
+
 Rush Videos
+
 Jun 2005 – Sep 2006
+
 Alabaster, Alabama
 
 Designed and developed small websites for small businesses
 Designed DVD covers for small reproduction jobs
 Edited wedding and event videos for clients in Final Cut Pro
 
-
--------------------------------------------
-
-Education
+## Education
 
 University of Alabama at Birmingham - Collat School of Business
 Bachelor of Science in Marketing
 2006-2010
 
-------------------------------------------- 
-
-Links
+## Links
 
 https://github.com/mstone6769
 
@@ -125,29 +136,21 @@ https://www.linkedin.com/in/morganstone
 https://morganstone.me/
 
 
-------------------------------------------- 
-
-Speaking
+## Speaking
 
 
-Rapid Prototyping with Angular CLI
+### Rapid Prototyping with Angular CLI
 Women Who Code Birmingham, January 2018
 
-Optimizing Angular (Client Side Performance)
+### Optimizing Angular (Client Side Performance)
 Birmingham Javascript Meetup, June 2016
 
-Foundation for Apps
+### Foundation for Apps
 Birmingham Javascript Meetup, April 2015
 
-Sass: Get Spunky Writing CSS
+### Sass: Get Spunky Writing CSS
 AIGA Birmingham, March 2014
 
-An Introduction to Foundation: A Responsive Design Framework
+### An Introduction to Foundation: A Responsive Design Framework
 AIGA Birmingham, November 2013
-
-------------------------------------------- 
-
-Contact
-
-mstone@designbymorgan.com
 
