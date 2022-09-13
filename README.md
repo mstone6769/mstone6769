@@ -141,6 +141,10 @@ https://morganstone.me/
 ## Speaking
 
 
+### React to Angular & Back Again
+Birmingham Javascript Meetup, September 2021
+
+
 ### Rapid Prototyping with Angular CLI
 Women Who Code Birmingham, January 2018
 
